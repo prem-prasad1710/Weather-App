@@ -83,7 +83,7 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/prem-prasad1710/Weather-App) or just clone the project using this command. 
 
 
 ```
@@ -148,10 +148,10 @@ npm run dev
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![linkedin](https://www.linkedin.com/in/prem-prasad1710/)
+[![Twitter]()](https://github.com/prem-prasad1710)
 
-© 2022 Mohit Sehrawat
+© 2022 Prem Prasad
 
 
 
